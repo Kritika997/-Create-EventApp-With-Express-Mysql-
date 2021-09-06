@@ -8,9 +8,9 @@
 ```
 ### Explanation
 ```
-SO in this user created the event and Implementing with it
-like:-Put,Post,Delete,Get to event and fetching all user and
- event by user and without user.
+SO in this user will create the event and Implementing with it
+like:-Put, Post, Delete, Get to the event and fetching all user and
+ event by the user and without the user.
 ```
 #### port and command
 ```
